@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".vscode": false,
+    ".HELP.md": true,
+  },
+  "spring.initializr.defaultJavaVersion": "11",
+  "git.enabled": true,
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ],
+  "diffEditor.wordWrap": "off",
+  "editor.wordWrap": "on"
+}
